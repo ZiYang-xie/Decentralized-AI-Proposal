@@ -35,9 +35,11 @@ The proposed initiative is grounded in the following principles:
 
 By establishing a decentralized AI ecosystem, we strive to address the challenges and limitations posed by traditional centralized AI systems. Through collaboration, openness, and community-driven innovation, our initiative aims to accelerate AI's positive impact on society and foster a sustainable and empowered future for all.
 
-As we embark on this journey towards a decentralized AI future, we acknowledge that there is still much to be explored and developed. The solution is not just about the technology itself but also the values and principles that underpin it. We must create a culture of collaboration, transparency, and open-source innovation, where everyone can contribute their unique perspective and expertise towards the common goal of advancing AI for the benefit of society. If you share our vision and goal for a decentralized AI future, we invite you to join us on this mission. Whether you are a developer, researcher, entrepreneur, or simply an enthusiast, your contribution can make a significant difference in shaping the future of AI. We believe that by working together, we can create a more equitable, secure, and sustainable AI ecosystem that empowers individuals and organizations worldwide.
+As we embark on this journey towards a decentralized AI future, we acknowledge that there is still much to be explored and developed. The solution is not just about the technology itself but also the values and principles that underpin it. We must create a culture of collaboration, transparency, and open-source innovation, where everyone can contribute their unique perspective and expertise towards the common goal of advancing AI for the benefit of society.   
 
-If you are passionate about this cause, do not hesitate to reach out to me.
+If you share our vision and goal for a decentralized AI future, we invite you to join us on this mission. Whether you are a developer, researcher, entrepreneur, or simply an enthusiast, your contribution can make a significant difference in shaping the future of AI. We believe that by working together, we can create a more equitable, secure, and sustainable AI ecosystem that empowers individuals and organizations worldwide.
+
+Please do not hesitate to reach out to me.
 
 `My personal Email 📮: ziyangxie01@gmail.com`
 
