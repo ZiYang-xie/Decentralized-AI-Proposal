@@ -1,8 +1,8 @@
-## TL; DR
+## ✍️ TL; DR
 This initiative aims to advocate a possibility to create **`a decentralized AI ecosystem`** leveraging blockchain technology to ensure **transparency, data security, and equal access to AI benefits for everyone**. By promoting open-source, inclusive, and community-driven innovation, we aspire to address the limitations of centralized AI systems and accelerate AI's positive societal impact, fostering a sustainable and a **`real open AI future`** for all human beings around the world.
 
 
-# Decentralized AI for an Open Future
+# 🌎 Decentralized AI for an Open Future
 
 As Large Language Models (LLMs) advance and exhibit increasingly emerge capabilities, we are witnessing the dawn of Artificial General Intelligence (AGI). This transformative technology holds the potential to revolutionize diverse aspects of our lives, reshaping industries and societal structures.
 However, the current centralized AI model raises concerns about data privacy, ownership, and accessibility.   
