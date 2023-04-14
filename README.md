@@ -47,4 +47,4 @@ Please do not hesitate to reach out to me.
 *(This is an early draft release of our advocacy for decentralized AI possibility, and we welcome feedback and constructive criticism as we continue to refine our proposal)*
 
 ## Stars
-[![Stars](https://api.star-history.com/svg?repos=ZiYang-xie/Decentralize-AI-Vision&type=Timeline)](https://star-history.com/#ZiYang-xie/Decentralize-AI-Vision&Timeline)
+[![Stars](https://api.star-history.com/svg?repos=ZiYang-xie/Decentralized-AI-Proposal&type=Timeline)](https://star-history.com/#ZiYang-xie/Decentralized-AI-Proposal&Timeline)
