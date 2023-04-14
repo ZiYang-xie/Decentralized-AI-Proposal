@@ -28,9 +28,16 @@ Addressing these challenges calls for an urgent paradigm shift towards decentral
 
 As we embark on this journey towards a decentralized AI future, we acknowledge that there is still much to be explored and developed. The solution is not just about the technology itself but also the values and principles that underpin it. We must create a culture of collaboration, transparency, and open-source innovation, where everyone can contribute their unique perspective and expertise towards the common goal of advancing AI for the benefit of society.
 
-We are still exploring the potential solution and viable algorithm to solve those problem, if you have the same vision and goal like us, do not hesitate to reach out to me.
+The proposed initiative is grounded in the following principles:
 
-If you share our vision and goal for a decentralized AI future, we invite you to join us on this mission. Whether you are a developer, researcher, entrepreneur, or simply an enthusiast, your contribution can make a significant difference in shaping the future of AI. We believe that by working together, we can create a more equitable, secure, and sustainable AI ecosystem that empowers individuals and organizations worldwide.
+1. **Decentralization**: Break free from the control of a single entity or group, ensuring that AI benefits are accessible to all, regardless of their resources or geographical location.
+2. **Transparency**: All transactions, data sharing, and algorithm updates will be recorded on the blockchain, providing a transparent and auditable record for all stakeholders.
+3. **Open-source**: Encourage the development of open-source AI tools, algorithms, and models that can be accessed, modified, and improved by anyone.
+4. **Inclusivity**: Create opportunities for individuals and organizations worldwide to contribute their knowledge, data, and computational resources towards the collective growth and advancement of AI.
+
+By establishing a decentralized AI ecosystem, we strive to address the challenges and limitations posed by traditional centralized AI systems. Through collaboration, openness, and community-driven innovation, our initiative aims to accelerate AI's positive impact on society and foster a sustainable and empowered future for all.
+
+We are still exploring the potential solution and viable algorithm to solve some key problems. If you share our vision and goal for a decentralized AI future, we invite you to join us on this mission. Whether you are a developer, researcher, entrepreneur, or simply an enthusiast, your contribution can make a significant difference in shaping the future of AI. We believe that by working together, we can create a more equitable, secure, and sustainable AI ecosystem that empowers individuals and organizations worldwide.
 
 If you are passionate about this cause, do not hesitate to reach out to me.
 
